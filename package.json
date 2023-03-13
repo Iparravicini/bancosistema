@@ -1,0 +1,16 @@
+{
+  "name": "cuentasbanco",
+  "version": "1.0.0",
+  "description": "Gestión de Cuentas Corrientes del Banco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bancosistema"
+  },
+  "author": "Ignacio en Curso Alura",
+  "license": "ISC",
+  "type":"module"
+}
